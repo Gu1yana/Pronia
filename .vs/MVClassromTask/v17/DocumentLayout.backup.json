@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\migrations\\proniadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\migrations\\proniadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\migrations\\20250502081207_createdslidertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\migrations\\20250502081207_createdslidertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\controllers\\blog-detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\controllers\\blog-detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\contexts\\proniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\contexts\\proniadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\views\\blog_detail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\views\\blog_detail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\repositories\\implement\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\repositories\\implement\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\repositories\\implement\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\repositories\\implement\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\repositories\\abstractions\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\repositories\\abstractions\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\repositories\\abstractions\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\repositories\\abstractions\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|c:\\users\\user\\desktop\\pronia all\\pronia\\mvclassromtask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EECA50AF-42F6-49BE-8A92-149A448FE621}|MVClassromTask\\MVClassromTask.csproj|solutionrelative:mvclassromtask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVClassromTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Views\\_ViewImports.cshtml*",
+              "RelativeToolTip": "MVClassromTask\\Areas\\Admin\\Views\\_ViewImports.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T09:16:42.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVClassromTask\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Views\\Service\\Create.cshtml*",
+              "RelativeToolTip": "MVClassromTask\\Areas\\Admin\\Views\\Service\\Create.cshtml*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T09:14:39.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Controllers\\ServiceController.cs*",
+              "RelativeToolTip": "MVClassromTask\\Areas\\Admin\\Controllers\\ServiceController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:23:07.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250502081207_CreatedSliderTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Migrations\\20250502081207_CreatedSliderTable.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Migrations\\20250502081207_CreatedSliderTable.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Migrations\\20250502081207_CreatedSliderTable.cs",
+              "RelativeToolTip": "MVClassromTask\\Migrations\\20250502081207_CreatedSliderTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:12:07.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProniaDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Migrations\\ProniaDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Migrations\\ProniaDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Migrations\\ProniaDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MVClassromTask\\Migrations\\ProniaDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:12:46.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Models\\Blog.cs",
+              "RelativeToolTip": "MVClassromTask\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:40:34.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Models\\Service.cs",
+              "RelativeToolTip": "MVClassromTask\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:00:03.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Models\\Slider.cs",
+              "RelativeToolTip": "MVClassromTask\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Constants\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Constants\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Constants\\ConnectionStrings.cs",
+              "RelativeToolTip": "MVClassromTask\\Constants\\ConnectionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVClassromTask\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "MVClassromTask\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T08:26:31.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "MVClassromTask\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "MVClassromTask\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Blog-detailController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Controllers\\Blog-detailController.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Controllers\\Blog-detailController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Controllers\\Blog-detailController.cs",
+              "RelativeToolTip": "MVClassromTask\\Controllers\\Blog-detailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:55:46.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MVClassromTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVClassromTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVClassromTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MVClassromTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T11:29:47.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Program.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Program.cs",
+              "RelativeToolTip": "MVClassromTask\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProniaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Contexts\\ProniaDbContext.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Contexts\\ProniaDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Contexts\\ProniaDbContext.cs",
+              "RelativeToolTip": "MVClassromTask\\Contexts\\ProniaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:02:34.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVClassromTask\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "MVClassromTask\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T11:29:48.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVClassromTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVClassromTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAPIAAAAAAAAAAAD4vwIBAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T11:29:47.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVClassromTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVClassromTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T11:29:47.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVClassromTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVClassromTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T11:29:47.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\Blog_detail\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVClassromTask\\Views\\Blog_detail\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\Blog_detail\\Index.cshtml",
+              "RelativeToolTip": "MVClassromTask\\Views\\Blog_detail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T18:55:57.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVClassromTask\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "MVClassromTask\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T11:29:47.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Repositories\\Implement\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Repositories\\Implement\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Repositories\\Implement\\SliderRepository.cs",
+              "RelativeToolTip": "MVClassromTask\\Repositories\\Implement\\SliderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Repositories\\Abstractions\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Repositories\\Abstractions\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Repositories\\Abstractions\\IBlogRepository.cs",
+              "RelativeToolTip": "MVClassromTask\\Repositories\\Abstractions\\IBlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:28:55.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Repositories\\Implement\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Repositories\\Implement\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Repositories\\Implement\\BlogRepository.cs",
+              "RelativeToolTip": "MVClassromTask\\Repositories\\Implement\\BlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:32:52.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Repositories\\Abstractions\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Repositories\\Abstractions\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Repositories\\Abstractions\\ISliderRepository.cs",
+              "RelativeToolTip": "MVClassromTask\\Repositories\\Abstractions\\ISliderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Repositories\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "MVClassromTask\\Repositories\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MVClassromTask\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "MVClassromTask\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:29:47.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVClassromTask\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVClassromTask\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T11:29:48.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
