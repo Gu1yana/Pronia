@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVClassromTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1369b5f92bb9864558039b9cbc37ba3ee50d91c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf8bd4480f4674ce1667926834efb7f98fbdda23")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVClassromTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVClassromTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using MVClassromTask.Contexts;
+
 namespace MVClassromTask
 {
     public class Program
@@ -8,7 +11,7 @@ namespace MVClassromTask
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddDbContext<ProniaDbContext>(opt => opt.UseSqlServer("Server=DESKTOP-0892D4J\\SQLEXPRESS; Database=PRONIA; Trusted_Connection=true; TrustServerCertificate=true;"));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -25,6 +28,7 @@ namespace MVClassromTask
             app.UseRouting();
 
             app.UseAuthorization();
+            
             app.MapControllerRoute(
                   name: "areas",
                   pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"

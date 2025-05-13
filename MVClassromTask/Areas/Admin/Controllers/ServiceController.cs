@@ -6,11 +6,10 @@ using MVClassromTask.Models;
 namespace MVClassromTask.Areas.Admin.Controllers
 {
 	[Area("Admin")]
-	public class ServiceController : Controller
+	public class ServiceController(ProniaDbContext context) : Controller
 	{
 		public async Task<IActionResult> Index()
 		{
-			using var context = new ProniaDbContext();
 			var service = await context.Services.ToListAsync();
 			return View(service);
 		}
@@ -22,7 +21,6 @@ namespace MVClassromTask.Areas.Admin.Controllers
 		{
 			if (!ModelState.IsValid)
 				return View(service);
-			using var context = new ProniaDbContext();
 			await context.Services.AddAsync(service);
 			await context.SaveChangesAsync();
 			return RedirectToAction(nameof(Index));
@@ -31,7 +29,6 @@ namespace MVClassromTask.Areas.Admin.Controllers
 		{
 			if (id is null || id < 1)
 				return BadRequest();
-			using var context = new ProniaDbContext();
 			var service = await context.Services.FirstOrDefaultAsync(x => x.Id == id);
 
 			if (service == null)

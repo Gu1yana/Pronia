@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\MVClassromTask.csproj": {}
+    "C:\\Users\\l novbe\\Desktop\\Pronia\\MVClassromTask\\MVClassromTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\MVClassromTask.csproj": {
+    "C:\\Users\\l novbe\\Desktop\\Pronia\\MVClassromTask\\MVClassromTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\MVClassromTask.csproj",
+        "projectUniqueName": "C:\\Users\\l novbe\\Desktop\\Pronia\\MVClassromTask\\MVClassromTask.csproj",
         "projectName": "MVClassromTask",
-        "projectPath": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\MVClassromTask.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\PRONIA ALL\\Pronia\\MVClassromTask\\obj\\",
+        "projectPath": "C:\\Users\\l novbe\\Desktop\\Pronia\\MVClassromTask\\MVClassromTask.csproj",
+        "packagesPath": "C:\\Users\\l novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\l novbe\\Desktop\\Pronia\\MVClassromTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\l novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -57,6 +51,10 @@
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
@@ -96,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
